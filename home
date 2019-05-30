@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vasilis Oikonomou | University of California, Berkeley</title>
+		<META name="description" content=""><META name="keywords" content="computer science, machine learning, statistics, deep learning, optimization">
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+				<li><a href="/teaching">Teaching</a></li>
+				<li><a href="/projects">Projects</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<h1 id="vasilis-oikonomou">Vasilis Oikonomou</h1>
+
+<p><img src="img/prof.jpg" alt="Photo" class="leftside_image" /></p>
+
+<p>I am a senior at the University of California, Berkeley studying <em>Statistics</em>, with a broad interest in <strong>Statistical Machine Learning</strong>, <strong>Optimization</strong> and <strong>Theoretical Computer Science</strong>. I enjoy solving messy real-world data problems and reading about elegant, intuitive concepts from Computer Science, Statistics, and Mathematics.</p>
+
+<p>After graduation, I will be returning to <a href="https://www.twosigma.com/">Two Sigma Investments</a> as a Quantitative Researcher. In the past, I was a <strong>Quantitative Research Intern</strong> at Two Sigma Investments (Summer 2018), a <strong>Machine Learning Intern</strong> at <a href="https://unify.id/">UnifyID</a> (Summer 2017) working on Computer Vision, and a <strong>Data Science Intern</strong> at <a href="https://www.workable.com/">Workable</a> (Summer 2016) with a focus on NLP. For more information about my professional qualifications, check out my <a href="https://docs.google.com/document/d/1aGczdiPDUEI2bRPxQ1jUxYdsIvD8PvYp8unmRFXQQNA/edit?usp=sharing">resume</a> and <a href="https://www.linkedin.com/in/vasilis-oikonomou-606571107/">LinkedIn profile</a>.</p>
+
+<p>I am passionate about teaching. You can find a complete list of positions I have held over time <a href="/teaching">here</a>.</p>
+
+<p>Outside of school, I enjoy <a href="https://www.goodreads.com/user/show/91812999-vasilis">reading</a>, basketball and travelling.</p>
+
+<p>Email: <code class="highlighter-rouge">v.oikonomou_at_berkeley_dot_edu</code></p>
+
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+    			<li><small>© 2019, Vasilis Oikonomou</small></li>
+			</ul>
+		</footer>
+	</body>
+</html>
