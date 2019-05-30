@@ -7,7 +7,21 @@ h1 {
     text-align: center;
 }
 
-.leftside_image {
+h2 {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: normal;
+    font-weight: 250;
+    font-size: 1.75em;
+}
+
+h3 {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: normal;
+    font-weight: 150;
+    font-size: 1.2em;
+}
+
+.image {
   float: left;
   margin-top:0px;
   margin-right: 40px;
@@ -41,25 +55,23 @@ nav ul li, footer ul li {
 }
 
 a {
-    color: #8F5E99;
     text-decoration: none;
     font-weight: 300
-     // indigo
 }
 
 a:link {
     text-decoration: none;
-    color: #8F5E99; // indigo
+    color: #8F5E99;
 }
 
 a:hover {
     opacity:0.8;
-    color: #8F5E99; // indigo
+    color: #8F5E99;
 }
 
 a:visited {
     text-decoration: none;
-    color: #8F5E99; // indigo
+    color: #8F5E99;
 }
 
 p {
@@ -67,14 +79,12 @@ p {
     font-family: ibm-plex-sans, sans-serif;
     font-weight: lighter;
     font-size: 1em;
-    line-height: 1.4em;
+    line-height: 1.1em;
 }
 
 object {
     pointer-events: none;
 }
-
-
 
 .icon {
   margin-left: 10px;
