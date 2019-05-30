@@ -29,7 +29,7 @@ body {
 nav ul, footer ul {
     text-align: center;
     padding-bottom: 20px;
-    color: #8F5E99;
+    /* color: #8F5E99; */
 }
 
 nav ul li, footer ul li {
@@ -41,8 +41,14 @@ nav ul li, footer ul li {
 }
 
 a {
+    color: #8F5E99;
     text-decoration: none;
     font-weight: 300
+     // indigo
+}
+
+a:link {
+    text-decoration: none;
     color: #8F5E99; // indigo
 }
 
