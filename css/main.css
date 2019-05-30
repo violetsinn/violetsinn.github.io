@@ -29,6 +29,7 @@ body {
 nav ul, footer ul {
     text-align: center;
     padding-bottom: 20px;
+    color: #4B0082;
 }
 
 nav ul li, footer ul li {
