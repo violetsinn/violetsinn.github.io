@@ -1,3 +1,26 @@
+h1 {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: normal;
+    font-weight: 150;
+    font-size: 3em;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.leftside_image {
+  float: left;
+  margin-top:0px;
+  margin-right: 40px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+}
+
 body {
     margin: 50px auto;
     width: 55%;
@@ -32,22 +55,9 @@ a:visited {
     color: #4B0082; // indigo
 }
 
-h1 {
-    font-family: ibm-plex-sans, sans-serif;
-    font-style: normal;
-    font-weight: 150;
-    font-size: 3em;
-    margin-left: 40px;
-    text-align: center;
-}
-
-h3 {
-    font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
 p {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
+    font-family: ibm-plex-sans, sans-serif;
     font-weight: lighter;
     font-size: 1em;
     line-height: 1.4em;
@@ -57,19 +67,7 @@ object {
     pointer-events: none;
 }
 
-.leftside_image {
-  float: left;
-  margin-top:0px;
-  margin-right: 40px;
-  margin-left: 0px;
-  margin-bottom: 10px;
-  text-align: center;
-  font-size: 0.8em;
-  font-style: italic;
-  border-radius: 50%;
-  width: 350px;
-  height: 350px;
-}
+
 
 .icon {
   margin-left: 10px;
