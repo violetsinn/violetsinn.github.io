@@ -71,7 +71,7 @@ a:hover {
 
 a:visited {
     text-decoration: none;
-    color: #8F5E99;
+    /* color: #8F5E99; */
 }
 
 p {
