@@ -21,7 +21,7 @@ h3 {
     font-size: 1.2em;
 }
 
-.leftside_image {
+.profile {
   float: left;
   margin-top:0px;
   margin-right: 40px;
@@ -71,7 +71,6 @@ a:hover {
 
 a:visited {
     text-decoration: none;
-    /* color: #8F5E99; */
 }
 
 p {
