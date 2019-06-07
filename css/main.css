@@ -21,7 +21,7 @@ h3 {
     font-size: 1.2em;
 }
 
-.leftside_image {
+.image {
   float: left;
   margin-top:0px;
   margin-right: 40px;
@@ -35,6 +35,12 @@ h3 {
   height: 350px;
 }
 
+.icon {
+  margin-left: 10px;
+  display:inline;
+  color-fill: #4B0082;
+}
+
 body {
     margin: 50px auto;
     width: 55%;
@@ -43,7 +49,6 @@ body {
 nav ul, footer ul {
     text-align: center;
     padding-bottom: 20px;
-    /* color: #8F5E99; */
 }
 
 nav ul li, footer ul li {
@@ -74,7 +79,6 @@ a:visited {
 }
 
 p {
-    /* font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
     font-family: ibm-plex-sans, sans-serif;
     font-weight: lighter;
     font-size: 1em;
@@ -83,12 +87,6 @@ p {
 
 object {
     pointer-events: none;
-}
-
-.icon {
-  margin-left: 10px;
-  display:inline;
-  color-fill: #4B0082;
 }
 
 svg {
