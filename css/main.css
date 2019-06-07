@@ -21,7 +21,7 @@ h3 {
     font-size: 1.2em;
 }
 
-.image {
+.main_image {
   float: left;
   margin-top:0px;
   margin-right: 40px;
@@ -97,7 +97,6 @@ svg {
 
 footer {
     margin-top: 50px;
-    /* border-top: 1px solid #d5d5d5; */
     text-align: right;
     font-family: ibm-plex-sans-thin, sans-serif;
     font-style: normal;
