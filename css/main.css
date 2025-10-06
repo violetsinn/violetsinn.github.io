@@ -88,12 +88,22 @@ ul, li, a {
     color: #000000;
 }
 
+blockquote {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+    color: #555555;
+    border-left: 3px solid #8F5E99;
+    margin: 20px 0;
+    padding-left: 15px;
+}
+
 th, td {
     font-family: ibm-plex-sans, sans-serif;
 }
 
 th {
-    font-weight: 500
+    font-weight: 400;
     color: #8F5E99;
 }
 td {
