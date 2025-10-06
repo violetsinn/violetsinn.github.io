@@ -106,6 +106,7 @@ th, td {
 th {
     font-weight: 400;
     color: #8F5E99;
+    text-align: left;
 }
 td {
     font-weight: lighter;
