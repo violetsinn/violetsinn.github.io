@@ -88,6 +88,18 @@ ul, li, a {
     color: #000000;
 }
 
+th, td {
+    font-family: ibm-plex-sans, sans-serif;
+}
+
+th {
+    font-weight: 500
+    color: #8F5E99;
+}
+td {
+    font-weight: lighter;
+}
+
 footer {
     margin-top: 50px;
     text-align: right;
