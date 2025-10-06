@@ -100,6 +100,7 @@ blockquote {
 
 th, td {
     font-family: ibm-plex-sans, sans-serif;
+    white-space: nowrap;
 }
 
 th {
