@@ -133,12 +133,12 @@ blockquote {
 th, td {
     font-family: ibm-plex-sans, sans-serif;
     white-space: nowrap;
+    text-align: left;
 }
 
 th {
     font-weight: 400;
     color: #8F5E99;
-    text-align: center;
 }
 td {
     font-weight: lighter;
