@@ -37,18 +37,6 @@
   height: 200px;
 }
 
-.poem_large_image {
-  margin-top:0px;
-  margin-right: 40px;
-  margin-left: 0px;
-  margin-bottom: 10px;
-  text-align: center;
-  font-size: 0.8em;
-  font-style: italic;
-  width: 400px;
-  height: 800px;
-}
-
 .icon {
   margin-left: 10px;
   display:inline;
