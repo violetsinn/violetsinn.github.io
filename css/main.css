@@ -99,6 +99,13 @@ p {
     line-height: 1.1em;
 }
 
+.image-caption {
+    font-family: ibm-plex-sans, sans-serif;
+    font-weight: lighter;
+    font-size: 0.5em;
+    line-height: 0.7em;
+}
+
 object {
     pointer-events: none;
 }
