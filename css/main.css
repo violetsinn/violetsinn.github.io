@@ -12,6 +12,33 @@
   height: 350px;
 }
 
+.poem_vert_image {
+  margin-top:0px;
+  margin-right: 40px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  border-radius: 50%;
+  width: 100px;
+  height: 200px;
+}
+
+
+.poem_hori_image {
+  margin-top:0px;
+  margin-right: 40px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  border-radius: 50%;
+  width: 200px;
+  height: 100px;
+}
+
 .icon {
   margin-left: 10px;
   display:inline;
