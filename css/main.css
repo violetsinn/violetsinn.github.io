@@ -66,6 +66,13 @@ h3 {
     font-size: 1.2em;
 }
 
+b {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1em;
+}
+
 body {
     margin: 50px auto;
     width: 55%;
