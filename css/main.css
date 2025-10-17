@@ -66,6 +66,13 @@ h3 {
     font-size: 1.2em;
 }
 
+h3 {
+    font-family: ibm-plex-sans, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.1em;
+}
+
 b {
     font-family: ibm-plex-sans, sans-serif;
     font-style: normal;
